@@ -62,8 +62,6 @@ void CWLibrary::sendMessage(char* cwMessage)
 
     while(singleCharacter != '\0')
     {
-        Serial.print(singleCharacter);Serial.print(" - ");
-
         // Check if is a SPACE or othe char
         if(singleCharacter == 32)
         {
