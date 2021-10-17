@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# GitHub
+.github
+
+# VSCode
+.vscode
