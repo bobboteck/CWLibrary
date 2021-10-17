@@ -16,10 +16,10 @@ You can send a message in *Morse*, using: a light, a sound or a radio frequency 
 Morse is a "binary" communication system, it is based on the **presence** or **absence** of the signal (for example: light on, light off) and on the duration of these.
 Signals can be short or long, respectively called dots or lines. Morse code establishes a specific sequence of these for each character, for example we have:
 
-A, that corresponds to: LINE DOT
-B, that corresponds to: LINE DOT DOT DOT
-C, that corresponds to: LINE DOT LINE DOT
-... and so on.
+- A, that corresponds to: LINE DOT
+- B, that corresponds to: LINE DOT DOT DOT
+- C, that corresponds to: LINE DOT LINE DOT
+- ... and so on.
 
 There is a specific time interval between a single element (dot or line), just as there is one between one character and another, and between two words.
 > For more information see the [Wiki page](https://en.wikipedia.org/wiki/Continuous_wave).
