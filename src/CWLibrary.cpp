@@ -1,12 +1,13 @@
 /*
  * Name          : CWLibrary.cpp
  * @author       : Roberto D'Amico (@Bobboteck)
- * Last modified : 22.09.2021
- * Revision      : 1.0.0
+ * Last modified : 20.01.2024
+ * Revision      : 1.0.1
  *
  * Modification History:
  * Date         Version     Modified By     Description
  * 2021-09-22   1.0.0       Roberto D'Amico Send CW message at WPM defined
+ * 2024-01-20   1.0.1       Roberto D'Amico FIX PARIS dots length
  * 
  * The MIT License (MIT)
  *
